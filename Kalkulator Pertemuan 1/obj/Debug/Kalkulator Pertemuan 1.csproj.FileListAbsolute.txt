@@ -1,0 +1,8 @@
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\bin\Debug\Kalkulator Pertemuan 1.exe.config
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\bin\Debug\Kalkulator Pertemuan 1.exe
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\bin\Debug\Kalkulator Pertemuan 1.pdb
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\obj\Debug\Kalkulator Pertemuan 1.csproj.AssemblyReference.cache
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\obj\Debug\Kalkulator Pertemuan 1.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\obj\Debug\Kalkulator Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\obj\Debug\Kalkulator Pertemuan 1.exe
+D:\23.11.5748\Kalkulator Pertemuan 1\Kalkulator Pertemuan 1\obj\Debug\Kalkulator Pertemuan 1.pdb
